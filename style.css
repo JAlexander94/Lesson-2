@@ -1,0 +1,19 @@
+body{
+    text-align:center ; 
+    margin:100px ; 
+    background-color: rgb(209, 136, 46); 
+    color:aliceblue ;
+}
+.main-para{
+    margin-left:150px ;
+    margin-right:150px
+}
+ul{
+    margin-left:250px ;
+    margin-right:250px  
+}
+h1{
+    border-style: solid ;
+    border-color: #888888 ;
+    box-shadow: 5px 10px 5px #888888;
+}
